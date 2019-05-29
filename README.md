@@ -7,8 +7,7 @@ issues that matter to me. Check the links below:
 - [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 - [Change-Detection-in-Satellite-Imagery](https://github.com/abhijeet3922/Change-Detection-in-Satellite-Imagery)
 
-- []()
-- []()
+_____________
 
 #### Also check the topic "change detection in satellite images (SAR if possible) using CNN":
 
