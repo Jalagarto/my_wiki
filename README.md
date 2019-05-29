@@ -1,5 +1,5 @@
 # my_wiki
-issues that matter to me. Check the wiki section
+issues that matter to me. Check the links below:
 
 
 - [Deep Learning and SAR Applications](https://towardsdatascience.com/deep-learning-and-sar-applications-81ba1a319def)
@@ -9,4 +9,12 @@ issues that matter to me. Check the wiki section
 
 - []()
 - []()
+
+#### Also check the topic "change detection in satellite images (SAR if possible) using CNN":
+
+my intuition is that pixel by pixel works are not useful anymore, since 1 pixel might have half an object, i.e. information
+from multiple inputs. We need to understand the image itself, being able to analyze groups of pixels.
+The best way to analyze groups of pixels is applying filters (i.e. Convolutions) and analyzing the filters outputs, which
+might contain multiple pixels... Nevertheless it would be cool to be able to analyze pixel wise at the same time that
+analysing groups of convolutions,... is this possible?
 
