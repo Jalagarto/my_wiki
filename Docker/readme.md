@@ -14,6 +14,8 @@ Lifecycle:
         - ```docker rm``` -  deletes a container.
         - ```docker update``` -  updates a container's resource limits.
         
+        Normally if you run a container without options it will start and stop immediately, if you want keep it running you can use the command, docker run -td container_id this will use the option -t that will allocate a pseudo-TTY session and -d that will detach automatically the container (run container in background and print container ID).
+        
     - Starting and Stopping:
         - ```docker start``` -  starts a container so it is running.
         - ```docker stop``` -  stops a running container.
@@ -23,7 +25,8 @@ Lifecycle:
         - ```docker wait```  -  blocks until running container stops.
         - ```docker kill```  -  sends a SIGKILL to a running container.
         - ```docker attach```  -  will connect to a running container.
-
+        
+      If you want to detach from a running container, use Ctrl + p, Ctrl + q. If you want to integrate a container with a host process manager, start the daemon with -r=false then use docker start -a.
 
 
 - [Quickstart](https://docs.docker.com/get-started/)
