@@ -4,7 +4,7 @@
     - Build, share, run, services, etc.
     
 - [Docker Cheat Sheet - Github](https://github.com/wsargent/docker-cheat-sheet#containers)
-    - docker version
+    - ```docker version``` shows which version of docker you have running
     
     - Containers: Your basic isolated Docker process. Containers are to Virtual Machines as threads are to processes. Or you can think of them as chroots on steroids.
 Lifecycle:
