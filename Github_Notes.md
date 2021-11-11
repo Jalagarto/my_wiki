@@ -14,4 +14,4 @@ hint:
 hint: See "git help submodule" for more information.
 ```
 
-*Remove a sub-repository from the index: 	git rm --cached my_pycocotools*
+*Remove a sub-repository from the index: 	&emsp; git rm --cached my_pycocotools*
