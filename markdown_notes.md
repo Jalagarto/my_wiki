@@ -7,3 +7,9 @@ HTML5 works  for markdown, so, whenever you feel stuck, just  check how to do it
 
 
 <p>Use p between brackets to add a new PARAGRAPH in html</p>
+
+### Tables
+
+### Emojis
+
+### etc
