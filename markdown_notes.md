@@ -6,4 +6,4 @@ HTML5 works  for markdown, so, whenever you feel stuck, just  check how to do it
 * `&emsp;`  adds 4 horizontal spaces  
 
 
-<p>'<p>text</p>' adds a new PARAGRAPH in html</p>
+<p>adds a new PARAGRAPH in html</p>
